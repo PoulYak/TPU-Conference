@@ -1,2 +1,2 @@
-# ALL-RUSSIAN-CONFERENCE
-[Presentation](https://poulyak.github.io/ALL-RUSSIAN-CONF/) for my StyleTransferProject
+# TPU-Conference
+[Presentation](https://poulyak.github.io/TPU-Conference/) for my StyleTransferProject
